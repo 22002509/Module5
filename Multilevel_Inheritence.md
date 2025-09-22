@@ -55,5 +55,6 @@ print(gc.getName(), gc.getAge(), gc.getLocation())
 
 <img width="584" height="181" alt="image" src="https://github.com/user-attachments/assets/f59e1195-c99d-4bed-82b6-f0c472869288" />
 
+## Result
 
-
+The code is verified successfully.
